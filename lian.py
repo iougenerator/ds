@@ -5,3 +5,4 @@ if mystr == rev:
  print(“Yes”)
 else:
  print(“No”)
+ #time complexity can be bettter
